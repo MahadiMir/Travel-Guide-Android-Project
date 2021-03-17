@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sajib17.travelbangladesh.ResourtActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/t1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১) স্প্রিং ভ্যালি রিসোর্ট গাজীপুর:"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:id="@+id/t2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="রাজধানী ঢাকার খুব কাছে গাজীপুরের সালনায় গড়ে তোলা হয়েছে স্প্রিং ভ্যালি রিসোর্ট। পরিবারের সদস্যদের নিয়ে সেখানে আনন্দঘন সময় কাটিয়ে আসতে পারেন যে কোনো দিন। যেতে পারেন বন্ধুবান্ধবকে সঙ্গে নিয়ে পিকনিকে। বিয়ের পর হানিমুনে দূরে কোথাও না গিয়ে সময় কাটাতে পারেন এখানেও। নিজে না দেখলে বিশ্বাস করা যায় না এটা একটা রিসোর্ট নাকি স্বর্গভূমি। গ্রামীণ সৌন্দর্যের ১২ বিঘা জমির ওপ র এই রিসোর্টটি পরিচালনা করছে ট্রিপসিলো । এই রিসোর্টে রয়েছে বিশাল এক সুইমিংপুল। এছাড়াও বিনোদনের জন্যে  ভিতরে রয়েছে বাচ্চাদের খেলার ব্যাবস্থা, বিশাল খেলার মাঠ এবং পুকুর। সেই পুকুরে ভেসে বেড়াচ্ছে নৌকা, চাইলে সারদিন কাটিয়ে দিতে পারেন মাছ ধরাতেও। মাত্র জনপ্রতি ১২৫০ টাকায় উপভোগ করতে পারেন স্প্রিং ভ্যালি রিসোর্টের সারাদিনের প্যেকেজ- যাতে থাকছে খাওয়া-দাওয়া, সুইমিংপুল, নৌকা ভ্রমন সহ আরও অনেক কিছু। যা অন্যান্য রিসোর্টের তুলুনায় খরচ বেশ কম । ঢাকার খুব কাছে হওয়াতে খুব অল্প সময়েই রিসোর্টটি বেশ জনপ্রিয় হয়ে উঠছে, তাই ছুটির দিনগুলোতে আগে থেকে বুকিং দিয়ে যাওয়াই ভালো। বকিং এর সরাসরি যোগাযোগ নাম্বারঃ ০১৬৭৩-১১১-৭৭৭,০১৬৮৯-৭৭৭-৪৪৪,০১৮৭৩-১১১-৯৯৯
+
+ঢাকার অফিস ঠিকানাঃ House # 57, Road #05, Bonani DOHS, Dhaka. ওয়েব সাইট ঃ www.springvalleyresortbd.com
+
+Facebook Page: www.facebook.com/SpringValleyResortBD
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২) রাজেন্দ্র_ইকো_রিসোর্ট"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="গাজীপুর চৌরাস্তা থেকে বঙ্গবন্ধু সাফারি পার্কের বিপরীত দিকের বড় সড়ক থেকে ডানের গলিপথ ধরে সবুজের অরণ্যে হঠাটি হারিয়ে জাবেন আপনি। ভবানীপুর বাজার পেরিয়ে চিকন রাস্তা ধরে আরও কিছুটা দূর…। পথের দুধারে ঘন শালবন। যতদূর চোখ যায়, শুধুই গাছ আর গাছ। পুকুরপাড়ের গাছটিতে মাছরাঙা পাখি শিকারের আশায় বসে। পুকুরের তীর ঘেঁষে বকের হাঁটাহাঁটি। হরেক রকম পাখি দেখে মনে হতে পারে, হয়তো কোনো গহীন জঙ্গলে এসে পড়েছেন। সত্যিই গহীন অরণ্য। রাস্তার দুধারে দূরের শালবন ছাড়াও খেজুরগাছ, বটগাছ। রাস্তার পাশে আদিবাসীদের কিছু বাড়িঘর।
+http://rajendraecoresort.com/
+ফোনঃ ৫৮০৭০৮৪০,০১৯১৯৩১৮০০৯"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="৩) ভাওয়াল_জাতীয়_উদ্যান গাজীপুর ঃ"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="সরকারি পিকনিক স্পটগুলোর মধ্যে অন্যতম গাজীপুরের এ ভাওয়াল উদ্যান। চত্ত্বর গাজীপুর সদর ও শ্রীপুর থানা জুড়ে অবস্থিত ভাওয়াল জাতীয় উদ্যান। খেলাধুলার জন্য রয়েছে বড় একটি মাঠ। তাছাড়া রয়েছে এখানে একটি চিড়িয়াখানা। পৃথিবীর অন্যান্য জাতীয় উদ্যানের আদলে ৬,৪৭৭ হেক্টর জমিতে ১৯৭৩ সালে এ উদ্যান সরকারিভাবে গড়ে তোলা হয়। ভাওয়াল জাতীয় উদ্যানের মূল উদ্ভিদ হলো শাল। এছাড়াও নানারকম গাছ-গাছালিতে পরিপূর্ণ এ উদ্যান। জাতীয় উদ্যানের ভেতরে বেশকয়েকটি বনভোজন কেন্দ্র, ১৩টি কটেজ ও ৬টি রেস্ট হাউস রয়েছে। উদ্যানে প্রবেশমূল্য জনপ্রতি ৬ টাকা। এছাড়া পিকনিক স্পট ব্যবহার করতে হলে, বন বিভাগের মহাখালী কার্যালয় (০২-৮৮১৪৭০০) থেকে আগাম বুকিং দিয়ে আসতে হবে।
+সফিপুর আনসার একাডেমি গাজীপুর
+জেলার কালিয়াকৈর উপজেলায় অবস্থিত আনসার-ভিডিপি একাডেমির বিশাল চত্বর বেড়ানোর জন্য একটি উপযুক্ত যায়গা। অনুমতি সাপেক্ষে বনভোজন করারও ব্যবস্থা আছে এখানে । ফোনঃ০২-৭২১৪৯৫১-৯
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="৪) পদ্মা_রিসোর্ট :"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ছুটির দিন কিংবা ঈদের বন্ধ ছাড়া বুকিং না করে গেলেও সাধারণত কটেজ খালি পাওয়া যায়। বুকিংয়ের জন্য পদ্মা রিসোর্টের নিজস্ব ওয়েবসাইটে সব তথ্য পাওয়া যাবে। রিসোর্ট যদি শুধু দিনের বেলা ভাড়া করতে চান, তাহলে সকাল ১০টা থেকে সন্ধ্যা ছয়টা পর্যন্ত থাকতে পারবেন এবং সেক্ষেত্রে ভাড়া লাগবে ২৩০০ টাকা। আর যদি দিনসহ রাতও কাটাতে চান, তাহলে ভাড়া লাগবে ৩৪০০ টাকা। মোট ১৬টি কটেজ। এই কটেজগুলোই মূল আকর্ষণের জায়গা। নদীর পাড় ঘেঁষে গড়ে ওঠা কটেজগুলোতে বেশ আরামদায়ক এবং নিরিবিলি সময় কাটাতে পারবেন। কটেজগুলোর নামকরণও করা হয়েছে বেশ সুন্দরভাবে। ১২টি কটেজের নাম রাখা হয়েছে বাংলা বছরের ১২টি মাসের নামানুসারে। আর বাকি চারটির নাম নেওয়া হয়েছে চারটি ঋতু থেকে। যদি ভরা বর্ষায় আসেন তাহলে কটেজগুলোর সামনে পানি টলটল করবে। এর ওপর কাঠের তৈরি রাস্তা দিয়ে হাঁটাচলা করতে হয়। মনে হয় কটেজগুলো যেন ভেসে আছে পানিতে। ফোনঃ০১৭১২১৭০৩৩০ http://www.padmaresort.net/
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="৫) নক্ষত্রবাড়ী"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="গাজীপুরে অবস্থিত বেসরকারি রিসোর্টগুলোর মধ্যে সৌন্দর্যমণ্ডিত ‘নক্ষত্রবাড়ী’। নক্ষত্রবাড়ী প্রকৃতিপ্রেমী ও ভ্রমণপিপাসুদের কাছেও অতি জনপ্রিয় নাম। প্রকৃতিপ্রেমীদের সব সুযোগ-সুবিধা সংবলিত ঢাকার খুব কাছে একটি রিসোর্ট বানানোর কথা চিন্তা করে অভিনেতা তৌকীর আহমেদ ও বিপাশা হায়াত দম্পতি ১৪ বিঘা জমির ওপর ‘নক্ষত্রবাড়ী’ নির্মাণ করেন। ২০১১ সালের ১৬ ডিসেম্বর আনুষ্ঠানিক যাত্রা শুরু হয় নক্ষত্রবাড়ীর ।
+ফোনঃ০১১৯২১৫০৫৬৩,০১৯১৯৩১৮০০৯
+http://www.nokkhottrobari.com/"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="৬) নুহাশপলস্নী"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="জনপ্রিয় কথাসাহিত্যিক ও চলচ্চিত্র নির্মাতা হুমায়ূন আহমেদের বাগানবাড়ি ও শুটিং স্পট। প্রায় ৯০ বিঘা জায়গা নিয়ে এই নন্দন কাননে আছে একটি ছোট আকারের চিড়িয়াখানা, শান বাঁধানো ঘাটসহ একটি বিশাল পুকুর, দৃষ্টিনন্দন কটেজ, ট্রি হাউস বা গাছবাড়িসহ আরো অনেক আয়োজন। নুহাশ পলস্নীর ভেতরের বিশেষ আকর্ষণ হলো_এর ঔষধি গাছের বাগান। এত সমৃদ্ধ ঔষধি বাগান এদেশে বিরল। সবমিলিয়ে নুহাশপলস্নী একটি ছবির মতো সাজানো-গোছানো এক প্রান্তর, যেখানে গেলে ভালো লাগবে সবার। ডিসেম্বর, জানুয়ারি ও ফেব্রুয়ারি এই তিনমাস বনভোজনের অনুমতি মেলে নুহাশপলস্নীতে। যোগাযোগ :০১৭১২০৬০৯৭১
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="৭) ছুটি"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ছুটি রিসোর্টে রয়েছে নৌভ্রমণের ব্যবস্থা, বিরল প্রজাতির সংরক্ষিত বৃক্ষের বনে রয়েছে টানানো তাঁবু। ছনের ঘর, রেগুলার কটেজ, বার্ড হাউস, মাছ ধরার ব্যবস্থা, হার্বাল গার্ডেন, বিষমুক্ত ফসল, দেশীয় ফল, সবজি, ফুলের বাগান, বিশাল দুটি খেলার মাঠ, আধুনিক রেস্টুরেন্ট, দুটি পিকনিক স্পট, গ্রামীণ পিঠা ঘর, বাচ্চাদের জন্য কিডস জোনসহ সারা দিন পাখির কলরব, সন্ধ্যায় শিয়ালের হাঁক, বিরল প্রজাতির বাঁদুড়, জোনাকি পোকার মিছিল ও আতশবাজি, ঝিঁঝিঁ পোকার হৈচৈ। আর ভরা পূর্ণিমা হলে তো কথাই নেই।
+www.chutiresort.com/"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="৮) রাঙ্গামাটি_ওয়াটার_ফ্রন্ট_রিসোর্ট গাজীপুর"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="গাজীপুরের চন্দ্রায় অবস্থিত আরেকটি রিসোর্ট ও বনভোজন কেন্দ্র রাঙ্গামাটি। এখানে আছে বনভোজন কেন্দ্র, লেকে মাছ ধরা ও বেড়ানোর ব্যবস্থা এবং কটেজে অবকাশ যাপনের ব্যবস্থা। ফোনঃ০১৮১১৪১৪০৭৪,০১৯১৯৩১৮০০৯ । ওয়েব সাইটঃ www.rangamatiwaterfront.com
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="৯) উৎসব_পিকনিক_স্পট গাজীপুর"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ঢাকা থেকে প্রায় ৫০ কিলোমিটার দূরে ঢাকা-ময়মনসিংহ সড়কের হোতাপাড়ার কাছেই এ বনভোজন কেন্দ্রটি। উৎসব পিকনিক স্পটে আছে খোলা চত্বর, কয়েকটি কটেজ ও ট্রি হাউজ। ঢাকার ফুলবাড়িয়া থেকে শ্রাবণ পরিবহনে এসে নামতে হবে হোতাপাড়া বাসস্ট্যান্ডে। ভাড়া ৩৫ টাকা। সেখান থেকে রিকশায় দশ টাকা ভাড়া উৎসব পিকনিক স্পট পর্যন্ত। যোগাযোগ :০১৭১৩০৪৪৫৯১, ৮৬২৬৩৭৬
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১০) পুষ্পদাম পিকনিক স্পট গাজীপুর"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ঢাকা থেকে ৫৫ কিলোমিটার দূরে গাজীপুর জেলার বাঘের বাজারে পুষ্পদাম অবস্থিত। এখানে বিশাল পরিসরে রয়েছে দেশি-বিদেশি বাহারি গাছের সমাহার। প্রবেশপথেই রয়েছে বিশাল দেবদারু গাছের সারি। এ পথ পেরিয়ে একটু ভেতরে ঢুকলেই রয়েছে ফুলে ফুলে ঘেরা কয়েকটি কটেজ। এখানে রয়েছে বিশাল খেলার মাঠ, কৃত্রিম লেক, ঝরনা ও সুইমিংপুল। পর্যাপ্ত রান্নাঘর, টয়লেট ছাড়াও এখানে আছে একই সাথে এক হাজার লোকের খাবারের জায়গা। যোগাযোগ :০১৮১৯২১৬১৫৭।http://pushpadumresort.com
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১১) হ্যাপি_ডে_ইনন : গাজীপুর"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ভাওয়াল জাতীয় উদ্যানের ঠিক বিপরীত দিকে রয়েছে বেসরকারি এ পিকনিক স্পট। উন্নতমানের হলরুম, আবাসিক রুমসহ দেশীয়, থাই, চায়নিজ খাদ্যের ব্যবস্থা রয়েছে পিকনিকের জন্য। পিকনিকের আয়োজন করে গাজীপুরের এই সবুজ বনে হারিয়ে যেতে কে না চায়। ফোনঃ০১৯৩৯-০৪৭৫৮৬-৮
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১২) অঙ্গনা: গাজীপুর"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="গাজীপুরের সুর্য্যনারায়নপুর, কাপাসিয়া থানায় অবস্থিত অপরূপ প্রাকৃতিক সৌন্দর্যের লীলাভূমি হওয়ায় এই রিসোর্টের নামকরণ করা হয়েছে ‘অঙ্গনা’। গ্রামীণ সৌন্দর্যের বেসরকারি রিসোর্টস অঙ্গনার মালিক উপমহাদেশের জনপ্রিয় কণ্ঠশিল্পী রুনা লায়লার ভাই সৈয়দ আলী মুরাদ ২০০৪ সালে ১৮ বিঘা জমির ওপর এটি নির্মাণ করেন। যার অবস্থান গাজীপুরের কাপাসিয়ার সূর্যনারায়ণপুর গ্রামে। নগর জীবনে একাধারে চলতে চলতে ক্লান্তি এসে যায় মনে। আর এই ক্লান্তি দূর করতে রাজধানীর অদূরে কাপাসিয়ার সূর্যনারায়ণপুর গ্রামে গড়ে তোলা হয়েছে বেসরকারি এই রিসোর্ট ‘অঙ্গনা’ বাকী জানতে ওয়েবসাইট ভিসিট করুন
+http://www.anganaresort.com/"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১৩) ফ্যান্টাসি_কিংডম আশুলিয়া"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আশুলিয়ার জামগড়ায় গড়ে উঠেছে বিশ্বের আধুনিক সব রাইড নিয়ে বিনোদনকেন্দ্র ফ্যান্টাসি কিংডম। পাশেই হেরিটেজ পার্কে আছে ঐতিহ্যের পরিপূর্ণ ভাণ্ডার। বাংলাদেশের গুরুত্বপূর্ণ ঐতিহাসিক স্থাপনাগুলোর অনেকগুলোই চোখে পড়বে এখানে। এগুলো মূল স্থাপনার অবিকল আদলেই তৈরি করা হয়েছে হেরিটেজ পার্কে। এ জায়গা দুটিতে বনভোজন করার জন্য রয়েছে সব ধরনের সুযোগ-সুবিধা।
+ফোনঃ ৭৭০১৯৪৪-৪৯।"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১৪) রিসোর্ট_আটলান্টিস , আশুলিয়া"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ওয়াটার কিংডমের ভিতরে অবিস্থিত রিসোর্ট আটলান্টিস ,
+মোহাম্মদী গার্ডেন
+মহিশাষী, ধামরাই এ অবস্থিত
+ঢাকা-আরিচা মহাসড়কের পাশে ধামরাইয়ের মহিষাশী। এখানেই এই গার্ডেন অবস্থিত। নিজে না দেখলে বিশ্বাস করা যায় না এটা একটা স্বপ্নপুরী নাকি স্বর্গভূমি। বিনোদনের জন্য গার্ডেনের ভিতরে রয়েছে পুকুর। সেই পুকুরে ভেসে বেড়াচ্ছে নৌকা, কাঠের রাজহাঁস, মাটির শাপলা। ফোনঃ ০১৭১৭৩৭৪৯০৪, ০১১৯০২৩৭০৬২
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১৫) হাসনাহেনা_গাজীপুর"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ঢাকার পাশেই গাজীপুর জেলার পুবাইল কলেজগেটে অবস্থিত তেমনি একটি বেসরকারি বিনোদন পর্যটন কেন্দ্র “হাসনাহেনা”। টঙ্গী থেকে এর দূরত্ব ৮ কিলোমিটার। পরিবারের সবাইকে নিয়ে কিংবা অফিস বা সংগঠনের দিনব্যাপী পিকনিক বা বনভোজনে এখানে আসা যেতে পারে অনায়াসে। যোগাযোগ :হাসনাহেনা, হাড়িবাড়ীর টেক, পুবাইল কলেজগেট, পুবাইল গাজীপুর। ফোনঃ০১১৯৯৮৭৫৫৭৬, ০১৯১১৪৯৫১২৩, ০১৭১৪০০৩১০৩, ০১৭৩৬৬৭২৪০৮।
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১৬) সোহাগপল্লী"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১১ একর উঁচু-নিচু জমিতে সবুজে ঘেরা এই রিসোর্টের অন্যতম আকর্ষণ হলো জলাশয়ের ওপর নির্মিত অপরূপ সৌন্দর্যমণ্ডিত ঝুলন্ত সাঁকো আর এর পিলার ও বেলকনিতে খোঁদাই করা বিভিন্ন কারুকাজ- যা আগত দর্শনার্থীদের মুগ্ধ করে। বিশাল এক জলাশয়ের মাঝখানে ঝুলন্ত সাঁকো থাকায় দর্শনার্থীদের আকৃষ্ট করে বেশি। জলাশয়ের পূর্ব পাশে রয়েছে একটি দ্বিতল রেস্টুরেন্ট। রেস্টুরেন্টটির নাম রাখা হয়েছে মেজবান। শুধু তাই নয়, কৃত্রিমভাবে একটি লেক নির্মাণ করা হয়েছে। যাতে বর্ষা বা শুষ্ক সবসময়ই পানি থাকে। আর এই লেকের পানিতে বিভিন্ন জাতের মাছের বিচরণ দেখা যায়। ফোনঃ ০১৭১২০৪৯৯০৩-০৪,০১৬১২০৪৯৯০
+www.shohagpalli.com
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১৭) আনন্দ_রিসোর্ট"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="গাজীপুরের কালিয়াকৈরের পরিচিত রিসোর্ট হলো ‘আনন্দ’। আনন্দ রিসোর্টটি নামের সঙ্গে বেশ আবেগের মিল রেখেছে। আনন্দদানের সব উপকরণই এখানে জোগাড় করার চেষ্টা করা হয়েছে। শুধু চোখে দেখে নয়, বরং বিভিন্ন খেলার রাইডে চড়ে আনন্দের দেখা মিলবে এখানে। বিলঘেঁষা এই আনন্দ রিসোর্টের বৈশিষ্ট্য হলো, এখানে সরাসরি বিল থেকে মাছ শিকারের ব্যবস্থা রয়েছে। মাছ শিকারিদের জন্য এই সুযোগ অবশ্যই বাড়তি পাওনা।ছিপ ফেলে মাছের জন্য অপেক্ষায় কাটবে সময়। এ ছাড়া রয়েছে ছোটদের খেলার নানা উপকরণ। একটি সুইমিং রয়েছে। ৪২ বিঘা উঁচু-নিচু টিলা ভূমিতে গড়ে তোলা হয় আনন্দ রিসোর্ট। কালিয়াকৈরের সিনাবহের তালতলি এলাকায় এর অবস্থান। বিভিন্ন প্রজাতির ফলজ গাছ ও ৬টি কটেজ রয়েছে এখানে।
+ভাড়া : কটেজগুলোর প্রতিকক্ষ ২৪ ঘণ্টার ভাড়া ৩ হাজার থেকে ১০ হাজার টাকা। পিকনিক বা বিভিন্ন অনুষ্ঠানের জন্য ভাড়া পড়বে ৭০ হাজার থেকে এক লাখ টাকা।
+যেভাবে যাবেন : নিজস্ব পরিবহন বা যাত্রীবাহী বাসে করে গাজীপুরের চৌরাস্তা হয়ে ঢাকা-টাঙ্গাইল মহাসড়কে উঠতে হবে। এই মহাসড়ক ধরে সফিপুর বাজার যেতে হবে। সেখান থেকে ২ কিলোমিটার উত্তরে সিনাবহ বাজারের পাশে এই রিসোর্টের অবস্থান।
+ফোনঃ০২-৯১২৫৭৭৮,০১৯১৯৩১৮০০৯, ০১৬৭০২৭৫৮৬৪
+www.anandaresort.com.bd"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১৮) জল_জঙ্গলের_কাব্য, পূবাইল"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ঢাকার অদূরে পূবাইলে ৯০ বিঘা জমির উপর গড়ে উঠেছে একটুকরো গ্রাম।বাঁশ আর পাটখড়ির বেড়া ,উপরে ছনের ছাউনি, সামনে দিগন্ত বিস্তৃত জলের নাচন। এটা তেমন আধুনিক জায়গা নয় কিন্তু পরিচ্ছন্ন এবং গ্রাম-বাংলার একটা ছোয়া আছে এর আদলে। অবশ্যই ভাল লাগবে ঘুরে আসুন। ফোনঃ০১৯১৯৭৮২২৪৫, ০১৭১৯৫২৩০১৬
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১৯) আরশিনগর_হলিডে_রিসোর্ট"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ঢাকা থেকে মাত্র ত্রিশ কিলোমিটার দূরে গাজীপুরের ভাওয়ালে অত্যাধুনিক সুযোগ-সুবিধা সম্বলিত হলিডে রিসোর্ট ও পিকনিক স্পট। ভাওয়ালের গ্রাম ও শালবনের মাঝে অসাধারণ প্রাকৃতিক আবহাওয়ায় আধুনিক সব সুযোগ সুবিধা নিয়ে সাজানো আরশিনগর।
+অফিষ: ২১/১ ইস্কাটন গার্ডেন , ফ্্যাট ৪/এ , রমনা ঢাকা, ফোনঃ৯৩৪৪৮৮৯
+রিসোর্ট অফিস
+পাজৃলিয়া, জয়দেবপুর, গাজীপুর
+ফোন :০১৭৩২৩৫৪০০৭,০১৯২৩১১৭০৫৬
+http://www.arshinagarpicnicspot.com/"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২০) ড্রিম_স্কয়ার"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="গাজীপুরের মাওনার অজহিরচালা গ্রামে ‘ড্রিম স্কয়ার’ নামে বিশালাকৃতির বেসরকারি রিসোর্ট রয়েছে। ১২০ বিঘা জমির ওপর নির্মিত বিভিন্ন প্রজাতির ফলজ, বনজ ও ঔষধি গাছের সমন্বয়ে গড়ে উঠেছে ড্রিম স্কয়ার রিসোর্ট। এর প্রধান আকর্ষণ বিস্তীর্ণ এলাকাজুড়ে সবুজের সমারোহ। ড্রিম স্কয়ারের আকর্ষণীয় স্থানের মধ্যে রয়েছে তেলের ঘানি, ডেইরি ফার্ম, মৎস্য হ্যাচারি, কম্পোস্ট সার প্লান্ট, বায়োগ্যাস প্লান্ট। ড্রিম স্কয়ারের আলাদা বৈশিষ্ট্য হলো রেস্টুরেন্টের খাবারের সবজি এর ভেতরেই চাষাবাদকৃত, যা সম্পূর্ণ সার ও কীটনাশকমুক্ত।
+রয়েছে প্রাকৃতিকভাবে গড়ে ওঠা বিশালাকৃতির কয়েকটি লেক। রয়েছে ১৬টি ছোট-বড় পুকুর। ভেতরে সবুজে বেষ্টিত বাগানের মাঝখানে রয়েছে জাতীয় মাছ ইলিশের দুটি প্রতিকৃতি। আর বিভিন্ন গাছে রয়েছে বানরের প্রতিকৃতি।
+এখানে নানান প্রজাতির পাখির অভয়াশ্রম রয়েছে। ড্রিম স্কয়ারে প্রতি বছর শীতের সময় অতিথি পাখির মেলা বসে। আছে একটি রেস্টুরেন্ট, রয়েছে ওয়াই-ফাই সুবিধা। এখানে সবচেয়ে বেশি বিদেশি পর্যটকদের আনাগোনা। ফোনঃ৮৮০-০২-৯৩৩৪১৪৯, ৯৩৪২২০৩, ০১৭৫৫৬৩০৩৩১১
+http://www.dreamsquareresort.com/"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২১) গ্রীনটেক_রিসোর্ট"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২০১০ সালে গাজীপুর জেলার ভবানীপুরে প্রায় ৬ একর জায়গা নিয়ে অবস্থিত গ্রীনটেক রিসোর্ট। এখানে রয়েছে ৭৩টি রুম, একটি অডিটেরিয়াম, দুটি কনফরেন্স রুম, একটি সুমিং পুল, দুটি ডায়নিং হল, আর দুটি পুকুর। সম্পূর্ণ শীতাতাপ নিয়ন্ত্রিত এখানে রয়েছে ইনডোর, আউটডোর গেমের সকল সুবিধা। পুরো রিসোর্টটি রয়েছে ওয়াই ফাই সংযোগ। এখানে সর্বনিম্ন তিন হাজার থেকে সর্বচ্চো দশ হাজার টাকা পর্যন্ত রুম ভাড়া পাওয়া যায়।
+যোগাযোগ:হোটেল রেডিয়াল প্যালেস,রোড-৮, ব্লক-সি,বনানী, ঢাকা।ফোন: ০১৭১৫১০৫৭৭০,০১৯১৯৩১৮০০৯
+www.greentech-resort.com
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২২) আফরিন_পার্ক_রিসোর্ট_গাজীপুর"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="জয়দেবপুর চৌরাস্তা থেকে প্রায় দশ কিলোমিটার দূরে গাজীপুর-ময়মনসিংহ সড়কের পাশেই আফরিন পার্ক রিসোর্ট। নানান গাছ-গাছালিতে ঘেরা এ পার্কে আছে বিশাল শান বাঁধানো পুকুর, লেকে নৌকায় বেড়ানোর ব্যবস্থাসহ অবকাশ যাপনের জন্য রিসোর্ট ফোনঃ০১৮১৯২৫৩৩৩৯
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২৩) মাওয়া রিসোর্ট"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ঢাকা থেকে মাত্র ৩৮ কিলোমিটার দক্ষিণে বিক্রমপুরের লৌহজং উপজেলার মাওয়া ১নং ফেরিঘাট হতে সামান্য দক্ষিণে মাওয়া-ভাগ্যকুল রাস্তার কান্দিপাড়া গ্রামে নির্মিত এ রিসোর্ট সেন্টারটি যেন প্রকৃতির নৈসর্গিক সৌন্দর্যম-িত একটি অন্য রকম পর্যটন কেন্দ্র।। দীঘিতে রয়েছে দুটি বাঁধানো পাকা ঘাট। দীঘিতে ঘুরে বেড়াতে রয়েছে আধুনিক বোট। দীঘির পার ধরে বাম দিকে এগিয়ে গিয়ে আবার ডানে গেলে হাতের বামে পড়বে একটি ক্যাফেটেরিয়া। পর্যটকদের চাহিদামতো খাবার পাওয়া যায় এ ক্যাফেটেরিয়ায়। পুকুরের পূর্ব প্রান্তে পর্যটকদের থাকার জন্য রয়েছে সারি সারি বেশ কয়েকটি কটেজ। পর্যটকদের থাকার জন্য মোট ১১টি কটেজ রয়েছে। ৫টি সিঙ্গেল ৪টি ডাবল ও একটি সুইট রয়েছে এখানে। তবে কটেজে যাবার সময় সাদা আর সবুজ রঙের কাঠের পুলটি পর্যটন কেন্দ্রটির সৌন্দর্য আরও বাড়িয়ে দিয়েছে। পিকনিক ও ছবির শূটিং করার জন্যও এটি হতে পারে একটি অনন্য স্থান। রিসোর্টের কটেজগুলো ইটের দেয়ালে তৈরি করা হলেও এতে ছাদ না দিয়ে গ্রামের স্বাদ দিতে গোলপাতা দিয়ে তৈরি করা হয়েছে চাল। বাঁশের চটা দিয়ে নানান আলপনা তৈরি করা সিলিং পর্যটকদের মন কেড়ে নেবে। ভেতরে আধুনিক আসবাবপত্র, বাথরুম আর টাইলসের মেঝে দেখে মনে হয় এ যেন কোন ফাইভ স্টার হোটেল।
+http://mawaresort.com/home
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২৪) শাহ মেরিন রিসোর্ট:"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="প্রকৃতি এবং নদীর নান্দনিক দৃশ্য উপভোগ করার শাহ মারিন রিসর্ট ঢাকা শহর থেকে হেমায়পাতপুরের অনন্য জায়গা। যেখানে আপনি পিকনিক উপভোগ করতে পারেন এবং বিলাসবহুল বাসস্থানে থাকার এবং নদীর প্রাকৃতিক সৌন্দর্য উপভোগ করতে পারেন। আপনি ছুটির দিনে আপনার বাচ্চাদের নিয়ে যাচ্ছেন, একটি কর্পোরেট পিকনিক উপভোগ করছেন বা রোমান্টিক বিরতিতে রয়েছেন। বুকিং এর জন্য যোগাযোগ করুন - ০১৬৮৯৭৭৭৪৪৪,০১৯১৯৩১৮০০৯
+
+ওয়েব সাইট ঃ www.shahmarineresort.com"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২৫)ড্রিম হলিডে পার্ক নরসিংদী"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="নরসিংদীতে গড়ে উঠছে আর্ন্তজাতিক মানের বিনোদন কেন্দ্র ড্রিম হলিডে পার্ক। দেশের অন্যতম শীর্ষস্থানীয় শিল্প গোষ্ঠি ফনিক্স গ্রুপ রাজধানী ঢাকা থেকে ৪২ কিলোমিটার দূরে ঢাকা-সিলেট মহাসড়কের
+বিনোদন কেন্দ্রটিতে রয়েছে বিভিন্ন ধরনের এগারটি রাইট। এদের মধ্যে ওয়াটার পার্ক, এয়ার বাই সাইকেল, ফাইটার বোট, সোয়ান বোট, হ্যাপী ক্যাসেল, ন্যাকেট ক্যাসেল, রর্কি হর্স, হ্যাপী স্লাইট ও গ্রাউন সীট উল্লেখযোগ্য।
+www.dreamholidayparkbd.com/index.html"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২৬)মেঘনা ভিলেজ রিসোর্ট"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="নামের সঙ্গেই যেহেতু “ভিলেজ” যুক্ত অতএব এই রিসোর্ট গ্রামের মতোই সবুজ শ্যামল হবে, এটাই স্বাভাবিক। আসলেও তাই। মেঘনা রিসোর্ট ভিলেজের অবস্থান মুন্সীগঞ্জ জেলার গজারিয়া উপজেলায়। যা মেঘনা ব্রিজ থেকে এক কিলোমিটার দূরে। এখানে অবকাশ যাপনকারীদের জন্য রয়েছে থাকা-খাওয়া এবং বিনোদনের সব ব্যবস্থা। এখানে রয়েছে এসি-ননএসি উভয় প্রকার ক। আর এখানকার প্রতিটি ঘর একটু ভিন্নভাবে তৈরি করা হয়েছে, যা দেখতে অনেকটাই নেপালি কটেজের মতো। এখানে রয়েছে একটি বড় সবুজ মাঠ। যেখানে ইচ্ছে করলেই খেলাধুলায় মেতে ওঠা যায়। রয়েছে ফুটবল, ক্রিকেট, ব্যাডমিন্টনসহ প্রচলিত বিভিন্ন খেলার সামগ্রী। এখানে যে খাবার পরিবেশন করা হয় সেসব খাবারে ঘরোয়া স্বাদ পাওয়া যাবে নিঃসন্দেহে। রাতের বেলা আরাম কেদারায় বসে চাঁদনী দেখতে চাইলে সেই ব্যবস্থাও রয়েছে। বিশেষ করে জায়গাটি যেহেতু খোলামেলা তাই আকাশ কিংবা চাঁদ দেখা যায় সহজেই।
+http://megnavillage.webs.com/"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২৭) রাসেল পার্ক নারায়ণগঞ্,রূপগঞ্জ"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ঢাকা থেকে প্রায় ২৫ কিলোমিটার দূরে রূপগঞ্জে রয়েছে মনোমুগ্ধকর এ পিকনিক স্পট। প্রায় ৩০ বিঘার মতো জায়গা জুড়ে এখানে রয়েছে সবুজের সমারোহ। রাসেল পার্কে রয়েছে তিনটি পিকনিক স্পট। এছাড়াও রাসেল পার্কের ভেতরেই রয়েছে ছোট একটি চিড়িয়াখানা। নানারকম পশুপাখি রয়েছে এ চিড়িয়াখানায়। যোগাযোগ :০১৭১৫৪৬০৬৪।
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২৮) যমুনা রিসোর্ট, টাঙ্গাইলঃ"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="াকা থেকে ৯৫ কিলোমিটার এবং টাঙ্গাইল থেকে ১৯ কিলোমিটার দূরে বঙ্গবন্ধু সেতুর কাছেই আধুনিক একটি অবকাশ কেন্দ্র যমুনা রিসোর্ট। রিসোর্টের পশ্চিম পাশে যমুনার তীর ঘেঁষে এখানে আছে সাজানো গোছানো বনভোজন কেন্দ্র। যমুনা রিসোর্টে বনভোজনে যেতে হলে আগে থেকে যোগাযোগ করতে হবে এই নম্বরে_৮১৪২৯৭১-৩, ০১৭১১৮১৬৮০৭।
+http://www.jamunaresortbd.com/
+"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="২৯)এলেঙ্গা রিসোর্ট : টাঙ্গাইল"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="রাজধানী ঢাকা থেকে গাড়ি যোগে মাত্র দুই ঘণ্টার পথ। টাঙ্গাইল শহর থেকে সাত কি.মি. উত্তরে এলেঙ্গায় গড়ে উঠেছে ১৫৬.৬৫ হেক্টর জুড়ে এই রিসোর্ট। রিসোর্টের চারপাশজুড়ে বিভিন্ন গাছের সারি। একটা ছায়াঢাকা গ্রামীণ পরিবেশ। সঙ্গে আছে রেস্তোরাঁসহ নানা আধুনিক সুযোগ-সুবিধা। পাঁচটি ভিআইপি এসি স্যুট ছাড়াও আছে ১০টি এসি ডিলাক্স স্যুট, ১৬টি নানা-এসি কক্ষ, পাঁচটি পিকনিক স্পট, সভাকক্ষ, ছোট যাদুঘর ও প্রশিক্ষণ কক্ষ ইত্যাদি। খেলাধুলার জন্য রয়েছে টেনিস, টেবিল টেনিস, ব্যাডমিন্টন কোর্ট। বাড়তি সুযোগ হিসেবে আরও রয়েছে ইন্টারনেট ও টেলিযোগাযোগ ব্যবস্থা ইত্যাদি। ছোটদের বিনোদনের জন্য গড়ে তোলা হয়েছে কিড্স রুম। আছে ঘোড়ায় চড়ার ব্যবস্থা ও হেলথ ক্লাব। বিভিন্ন ধরনের দেশী খাবারের পাশাপাশি রয়েছে চীনা, ভারতীয় ও কন্টিনেন্টাল খাবার। নৌ-ভ্রমণের জন্য রয়েছে ট্রলার, দেশীনৌকা ও স্পিডবোড। কাছেই টাঙ্গাইলের তাঁতিবাজার। ইচ্ছে করলে সেখান থেকে কেনাকাটাও করতে পারেন কোনো পর্যটক। এছাড়া রিসোর্টের নিজস্ব গাড়িতে বেড়ানো যায় করটিয়া জমিদারবাড়ি, মধুপুরের গড় আর ধনবাড়ীর জমিদারবাড়ি।
+http://www.elengaresort.com"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="৩০)রিভেরী হলিডে রিসোর্ট"
+            android:textSize="24sp"
+            android:paddingLeft="5dp"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="20sp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"
+            android:text="রিভেরী হলিডে রিসোর্ট ঢাকা-ময়মনসিংহ রোডের গাজীপুরের সালনাতে খুব কাছাকাছি অবস্থিত। এটি ঢাকা থেকে মাত্র ১ ঘন্টা এবং গাজীপুরের চৌরাস্তা থেকে ৬কিমি দূরে। স্পটটি ন্যাশনাল পার্ক, গাজীপুর, ভাওয়াল রাজবাড়ী এবং অন্যান্য বেশ কয়েকটি বিনোদন কেন্দ্র এবং সাংস্কৃতিক ঐতিহ্যের স্থানগুলির কাছাকাছি। ৩ একরের এটি কোন পিকনিকের জন্য একটি সুন্দর জায়গা, কর্পোরেট দিন, সম্মেলন, পরিবার / গ্রুপের দিন, কর্মশালা, তাঁবু, বার-বি-কি পার্টি ইত্যাদি।একটি আধুনিক দ্বৈত বেঙ্গল এখানে আপনার আরামদায়ক এবং বড় সাধারণ রুম, ডাইনিং সুবিধা, আরামদায়ক কক্ষ এবং বিস্তৃত পোড়ামাটির সঙ্গে উপভোগ করে তোলে।ওয়েবসাইতঃ www.reverie.com.bd/reveriewp"
+            />
+
+    </LinearLayout>
+</ScrollView>
